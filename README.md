@@ -1,5 +1,5 @@
 # test 
-i use for testing github codespace this project 
+i use for testing github (feature preview, codespace, etc.) this project 
 
 e.g. screenshot
 
